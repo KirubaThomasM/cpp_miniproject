@@ -43,5 +43,6 @@ doc:
 clean:
 	$(RM) $(call FixPath,$(BUILD_DIR)\*)
 	#make -C documentation clean
-	
+valgrind:
+	valgrind ./$(PROJ_NAME).$(EXEC)
 
