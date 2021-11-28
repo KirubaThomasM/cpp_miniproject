@@ -14,7 +14,7 @@ Feature | Cost | Time
 
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/KirubaThomasM/cpp_miniprroject/blob/main/1_Requirement/SWOT.png)
+![SWOT Analysis](https://github.com/KirubaThomasM/cpp_miniproject/blob/main/1_Requirement/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
