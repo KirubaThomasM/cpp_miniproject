@@ -1,8 +1,8 @@
 # Design
 
 ## High Level Design 
-* Sequence Diagram :
-![SequenceDiagram](https://github.com/KirubaThomasM/cpp_miniprroject/blob/main/2_Architecture/Class_UML.png)
+* Class UML Diagram :
+![UML Diagram](https://github.com/KirubaThomasM/cpp_miniproject/blob/main/2_Architecture/Class_UML.png)
 
 
 
