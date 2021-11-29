@@ -19,7 +19,7 @@ else
    ifeq ($(shell uname), Linux)
       RM = rm -rf
       FixPath = $1
-	  EXEC = out
+      EXEC = out
    endif
 endif
 .PHONY: run clean test doc all
