@@ -9,8 +9,8 @@ Folder             | Description
 `1_Requirements`   | Contains detailed requirement of project
 `2_Architecture`   | Contains Structural and behavioural adiagrams
 `3_implementation` | All code and documentation
-`4_Test_planAndOutput`| Contains documents with test plans and procedures*
-`5_images and videos`|images of output*
+`4_TestPlanAndOutput`| Contains documents with test plans and procedures*
+`5_ImagesAndVideos`|images of output
 |* -yet be uploaded
 
     
