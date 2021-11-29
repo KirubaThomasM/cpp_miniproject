@@ -1,4 +1,4 @@
-name: Valgrind mem
+name: CodeQuality Dynamic Code Analysis
 on:
   push:
     branches: [ main ]
@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  test:
 
     runs-on: ubuntu-latest
 
@@ -16,4 +16,5 @@ jobs:
       run: |
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
-    - name: make valgrind
+    - name: Valgrind
+      run: make -C 3_implementation/ valgrind
