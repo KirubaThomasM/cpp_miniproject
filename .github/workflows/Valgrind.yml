@@ -19,4 +19,4 @@ jobs:
     - name: Valgrind
       run: |
         make all -C 3_Implementation/
-        valgrind -C ./3_Implementation/Build/E_Library.out
+        valgrind ./3_Implementation/Build/E_Library.out
