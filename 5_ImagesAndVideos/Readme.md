@@ -18,7 +18,7 @@
 
 ### Function overriding - Virtual
 * Buy Item :
-![BuyItem](https://github.com/KirubaThomasM/cpp_miniproject/blob/main/5_ImagesAndVideos/Buy_Item.png)
+![BuyItem](https://github.com/KirubaThomasM/cpp_miniproject/blob/main/5_ImagesAndVideos/Buy_item.png)
 
 ### Function overloading
 * Search Inputs :
